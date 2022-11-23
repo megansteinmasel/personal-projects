@@ -4,4 +4,4 @@ personal-projects is a collection of personal projects. The discriptions for eac
 
 * colorado-denim is a function clothing website.
 
-* testing is a folder that includes a java program and pdf that analyzes the data from the java program. The java program runs test samples through a hashset and treeset data structure and finds the running time for each test sample.
+* testing is a folder that includes a java program and pdf that analyzes the data from the java program. The java program SeparateChainingHashSet.java runs test samples through a hashset and treeset data structure and finds the running time for each test sample. The test samples include integers . The running time is computed with 
